@@ -10,18 +10,18 @@ export const AboutSecton = () => {
                 <div className="space-y-6">
                     <h3 className="text-xl font-semibold">Passionate Web Developer & Tech Creator</h3>
                     <p className="text-muted-foreground">
-                    I'm a dedicated tech enthusiast with 2 years of experience in full-stack web development. I build responsive, user-friendly applications Passionate about solving problems through clean code and continuous learning.
+                    I'm a dedicated tech enthusiast with 1 year of experience in full-stack web development. I build responsive, user-friendly applications Passionate about solving problems through clean code and continuous learning.
                     </p>
 
                     <p className="text-muted-foreground" >
-                        I'm a dedicated tech enthusiast with 2 years of experience in full-stack web development. I build responsive, user-friendly applications Passionate about solving problems through clean code and continuous learning.
+                    As a passionate full-stack developer with 1 year of hands-on experience, I create modern, responsive web applications that deliver great user experiences. I thrive on writing clean, efficient code and continuously exploring new technologies to improve my craft.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">
                             Get In Touch
                         </a>
-                        <a href="" className="px-6 py-2 rounded-full border border-primary text-primary transition-colors duration-300 hover:bg-primary/10">
-                            Download Cv
+                        <a href="/assets/Resume.pdf" className="px-6 py-2 rounded-full border border-primary text-primary transition-colors duration-300 hover:bg-primary/10">
+                            Download CV
                         </a>
                     </div>
                 </div>
@@ -49,9 +49,9 @@ export const AboutSecton = () => {
 
                             </div>
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg"> Web Development</h4>
+                                <h4 className="font-semibold text-lg">Client Collaboration</h4>
                                 <p className="text-muted-foreground" >
-                                    Creating responsive website and web application with modern frameworks
+                                I value open communication and work closely with clients to deliver tailored digital solutions.
                                 </p>
                             </div>
                         </div>
@@ -63,9 +63,9 @@ export const AboutSecton = () => {
                                 <Briefcase className="text-primary h-6 w-6" />
                             </div>
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg"> Web Development</h4>
+                                <h4 className="font-semibold text-lg"> Project Management</h4>
                                 <p className="text-muted-foreground" >
-                                    Creating responsive website and web application with modern frameworks
+                                I bring strong project management skills that ensure every task is deliverd on time, within scope, and aligned with strategic goals.
                                 </p>
                             </div>
                         </div>
