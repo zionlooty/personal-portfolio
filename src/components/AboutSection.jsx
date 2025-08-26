@@ -10,11 +10,11 @@ export const AboutSecton = () => {
                 <div className="space-y-6">
                     <h3 className="text-xl font-semibold">Passionate Web Developer & Tech Creator</h3>
                     <p className="text-muted-foreground">
-                    I'm a dedicated tech enthusiast with 1 year of experience in full-stack web development. I build responsive, user-friendly applications Passionate about solving problems through clean code and continuous learning.
+                    I'm a dedicated tech enthusiast with 3 years of experience in full-stack web development. I build responsive, user-friendly applications Passionate about solving problems through clean code and continuous learning.
                     </p>
 
                     <p className="text-muted-foreground" >
-                    As a passionate full-stack developer with 1 year of hands-on experience, I create modern, responsive web applications that deliver great user experiences. I thrive on writing clean, efficient code and continuously exploring new technologies to improve my craft.
+                    As a passionate full-stack developer with 3 years of hands-on experience, I create modern, responsive web applications that deliver great user experiences. I thrive on writing clean, efficient code and continuously exploring new technologies to improve my craft.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">

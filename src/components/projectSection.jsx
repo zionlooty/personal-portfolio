@@ -17,11 +17,19 @@ const projects = [
     tags: ["React", "TailwindCSS", "mySQL","NodeJS", "ExpressJS"]
   },
   {
-    id: 2,
+    id: 3,
     title: "PORTFOLIO WEBSITE",
     description: "A portfolio website using react and tailwind",
     image: "/assets/project3.png",
     tags: ["React", "TailwindCSS"]
+  },
+
+  {
+    id:4,
+    title: "BLOG PLATFORM",
+    description: "A blog platform webiste using nextjs and typescript",
+    image:"/assets/project6.png",
+    tags: ["Next.js", "TypeScript"]
   }
 ]
 
