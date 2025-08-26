@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "E-COMMERCE WEBSITE",
-    description: "A beautiful e-commerce website using react and tailwindcss",
+    description: "A modern, full-stack e-commerce platform designed for showcasing and selling jewelry online. The site features product browsing with detailed descriptions and images, shopping cart and checkout system, secure user authentication, and an admin dashboard for managing products, users, and orders.",
     image: "/assets/project4.png",
     tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"]
   },
@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     title: "LANDING PAGE",
-    description: "A clinic landing page using react and tailwindcss",
+    description: "A responsive clinic website designed to provide patients with easy access to services and online bookings. Key features include a hero section with service highlights, consultation booking system with rescheduling & cancellation options, user authentication, and an admin dashboard to manage appointments and services.",
     image: "/assets/project5.png",
     tags: ["React", "TailwindCSS", "mySQL","NodeJS", "ExpressJS"]
   },
@@ -27,8 +27,15 @@ const projects = [
   {
     id:4,
     title: "BLOG PLATFORM",
-    description: "A blog platform webiste using nextjs and typescript",
+    description: "A full-stack blog platform that enables users to create, edit, and publish blog posts with a clean and responsive interface",
     image:"/assets/project6.png",
+    tags: ["Next.js", "TypeScript"]
+  },
+  {
+    id:5,
+    title: "WEATHER APP",
+    description: "A responsive weather application built with Next.js, TypeScript, and Tailwind CSS, featuring real-time data from the WeatherAPI.com service",
+    image:"/assets/project7.png",
     tags: ["Next.js", "TypeScript"]
   }
 ]
