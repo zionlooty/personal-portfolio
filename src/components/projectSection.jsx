@@ -46,6 +46,15 @@ const projects = [
     link: "https://weather-app-development.vercel.app/", 
     github: "https://github.com/zionlooty/weather-app",
   },
+
+  {
+    id:6,
+    title: "TODOLIST",
+    description:"A simple task manager that allows users to sign up, log in, and manage daily tasks including creating, editing, and deleting tasks — with data saved in a backend database.",
+    image:"/assets/project8.png",
+    tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
+    github: "https://github.com/zionlooty",
+  }
 ]
 
 export const ProjectsSection = () => {
