@@ -53,6 +53,7 @@ const projects = [
     description:"A simple task manager that allows users to sign up, log in, and manage daily tasks including creating, editing, and deleting tasks — with data saved in a backend database.",
     image:"/assets/project8.png",
     tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
+    link:"https://todohubx.vercel.app"
     github: "https://github.com/zionlooty",
   }
 ]
