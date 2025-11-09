@@ -35,6 +35,7 @@ const projects = [
     image: "/assets/project6.png",
     tags: ["Next.js", "TypeScript"],
     github: "https://github.com/zionlooty",
+    link:"https://Blogxr.vercel.app"
   },
   {
     id: 5,
