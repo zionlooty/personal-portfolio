@@ -56,8 +56,23 @@ const projects = [
     tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
     link:"https://todohubx.vercel.app",
     github: "https://github.com/zionlooty",
+  },
+
+  {
+    id:7,
+    title:"Massage Alchemy",
+    description:"A beautifully designed and fully responsive massage therapy website built with React and TailwindCSS. The platform showcases wellness services, a gallery, smooth page navigation, and an elegant, user-friendly interface. Includes a mobile-friendly navbar, service sections, and a clean visual layout that highlights the brand’s calm and relaxing theme.",
+    image:"/assets/project9.png",
+    tags: ["React", "TailwindCSS"],
+    link:"https://massage-alchemy.vercel.app/",
+    github: "https://github.com/zionlooty",
+
   }
+
+
 ]
+
+
 
 export const ProjectsSection = () => {
   return (
