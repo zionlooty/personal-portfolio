@@ -10,25 +10,9 @@ const projects = [
     tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
     github: "https://github.com/zionlooty",
   },
+  
   {
     id: 2,
-    title: "LANDING PAGE",
-    description:
-      "A responsive clinic website designed to provide patients with easy access to services and online bookings. Key features include a hero section with service highlights, consultation booking system with rescheduling & cancellation options, user authentication, and an admin dashboard to manage appointments and services.",
-    image: "/assets/project5.png",
-    tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
-    github: "https://github.com/zionlooty",
-  },
-  {
-    id: 3,
-    title: "PORTFOLIO WEBSITE",
-    description: "A portfolio website using React and Tailwind.",
-    image: "/assets/project3.png",
-    tags: ["React", "TailwindCSS"],
-    github: "https://github.com/zionlooty",
-  },
-  {
-    id: 4,
     title: "BLOG PLATFORM",
     description:
       "A full-stack blog platform that enables users to create, edit, and publish blog posts with a clean and responsive interface.",
@@ -38,7 +22,7 @@ const projects = [
     link:"https://Blogxr.vercel.app"
   },
   {
-    id: 5,
+    id: 3,
     title: "WEATHER APP",
     description:
       "A responsive weather application built with Next.js, TypeScript, and Tailwind CSS, featuring real-time data from the WeatherAPI.com service.",
@@ -49,7 +33,7 @@ const projects = [
   },
 
   {
-    id:6,
+    id:4,
     title: "TODOLIST",
     description:"A simple task manager that allows users to sign up, log in, and manage daily tasks including creating, editing, and deleting tasks — with data saved in a backend database.",
     image:"/assets/project8.png",
@@ -59,7 +43,7 @@ const projects = [
   },
 
   {
-    id:7,
+    id:5,
     title:"Massage Alchemy",
     description:"A beautifully designed and fully responsive massage therapy website built with React and TailwindCSS. The platform showcases wellness services, a gallery, smooth page navigation, and an elegant, user-friendly interface. Includes a mobile-friendly navbar, service sections, and a clean visual layout that highlights the brand’s calm and relaxing theme.",
     image:"/assets/project9.png",
