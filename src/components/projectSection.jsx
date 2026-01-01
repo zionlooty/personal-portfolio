@@ -10,7 +10,7 @@ const projects = [
     tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
     github: "https://github.com/zionlooty",
   },
-  
+
   {
     id: 2,
     title: "BLOG PLATFORM",
@@ -19,7 +19,7 @@ const projects = [
     image: "/assets/project6.png",
     tags: ["Next.js", "TypeScript"],
     github: "https://github.com/zionlooty",
-    link:"https://Blogxr.vercel.app"
+    link: "https://Blogxr.vercel.app"
   },
   {
     id: 3,
@@ -28,30 +28,42 @@ const projects = [
       "A responsive weather application built with Next.js, TypeScript, and Tailwind CSS, featuring real-time data from the WeatherAPI.com service.",
     image: "/assets/project7.png",
     tags: ["Next.js", "TypeScript"],
-    link: "https://weather-app-development.vercel.app/", 
+    link: "https://weather-app-development.vercel.app/",
     github: "https://github.com/zionlooty/weather-app",
   },
 
   {
-    id:4,
+    id: 4,
     title: "TODOLIST",
-    description:"A simple task manager that allows users to sign up, log in, and manage daily tasks including creating, editing, and deleting tasks — with data saved in a backend database.",
-    image:"/assets/project8.png",
+    description: "A simple task manager that allows users to sign up, log in, and manage daily tasks including creating, editing, and deleting tasks — with data saved in a backend database.",
+    image: "/assets/project8.png",
     tags: ["React", "TailwindCSS", "mySQL", "NodeJS", "ExpressJS"],
-    link:"https://todohubx.vercel.app",
+    link: "https://todohubx.vercel.app",
     github: "https://github.com/zionlooty",
   },
 
   {
-    id:5,
-    title:"Massage Alchemy",
-    description:"A beautifully designed and fully responsive massage therapy website built with React and TailwindCSS. The platform showcases wellness services, a gallery, smooth page navigation, and an elegant, user-friendly interface. Includes a mobile-friendly navbar, service sections, and a clean visual layout that highlights the brand’s calm and relaxing theme.",
-    image:"/assets/project9.png",
+    id: 5,
+    title: "Massage Alchemy",
+    description: "A beautifully designed and fully responsive massage therapy website built with React and TailwindCSS. The platform showcases wellness services, a gallery, smooth page navigation, and an elegant, user-friendly interface. Includes a mobile-friendly navbar, service sections, and a clean visual layout that highlights the brand’s calm and relaxing theme.",
+    image: "/assets/project9.png",
     tags: ["React", "TailwindCSS"],
-    link:"https://massage-alchemy.vercel.app/",
+    link: "https://massage-alchemy.vercel.app/",
     github: "https://github.com/zionlooty",
 
+  },
+
+  {
+    id: 6,
+    title: "Pearlaw Corporate",
+    description:
+      "A pixel-perfect, Figma-to-code corporate website built with Next.js and Tailwind CSS. Designed and developed with a mobile-first approach, the platform delivers a fully responsive layout across mobile, tablet, and desktop. Features include smooth navigation, structured service sections, optimized background image overlays, and a clean, professional UI tailored for a corporate legal brand.",
+    image: "/assets/project10.png",
+    tags: ["Next.js", "Tailwind CSS", "Responsive Design", "Figma"],
+    link: "https://pearlaw-corporate.vercel.app/",
+    github: "https://github.com/zionlooty"
   }
+
 
 
 ]
@@ -100,7 +112,7 @@ export const ProjectsSection = () => {
                 </p>
                 <div className="flex justify-between items-center">
                   <div className="flex space-x-3">
-                    
+
                     <a
                       href={project.link}
                       target="_blank"
@@ -108,7 +120,7 @@ export const ProjectsSection = () => {
                     >
                       <ExternalLink size={20} />
                     </a>
-                   
+
                     <a
                       href={project.github}
                       target="_blank"
