@@ -10,7 +10,7 @@ return <section id="hero" className="relative min-h-screen flex flex-col items-c
                 <span className="text-gradent mt-2 animate-fade-in-delay-2 opacity-0"> Sodiq</span>
             </h1>
                 <p className=" text-lg md:text-xl text-muted-foreground max-auto opacity-0 animate-fade-in-delay-3">
-                I’m a Full Stack Developer who loves building modern web applications with clean code and great user experience. I work with technologies like React, Tailwind CSS, Node.js, and MySQL to bring ideas to life from frontend design to backend logic.
+                I’m a software Developer who loves building modern web applications with clean code and great user experience. I work with technologies like React, Tailwind CSS, Node.js, and MySQL to bring ideas to life from frontend design to backend logic.
                 </p>
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
 

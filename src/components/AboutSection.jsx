@@ -14,7 +14,7 @@ export const AboutSecton = () => {
                     </p>
 
                     <p className="text-muted-foreground" >
-                    As a passionate full-stack developer with 1 years of hands-on experience, I create modern, responsive web applications that deliver great user experiences. I thrive on writing clean, efficient code and continuously exploring new technologies to improve my craft.
+                    As a passionate software developer with 1 years of hands-on experience, I create modern, responsive web applications that deliver great user experiences. I thrive on writing clean, efficient code and continuously exploring new technologies to improve my craft.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">
